@@ -1,0 +1,17 @@
+{
+    "students": [
+        {
+            "numbers": 40028,
+            "bulletin": [
+                {
+                    "UE": "CAI1",
+                    "acquired": false
+                },
+                {
+                    "UE": "INT1",
+                    "acquired": true
+                }
+            ]
+        }
+    ]
+}
